@@ -1,0 +1,23 @@
+nav a.active 
+{ font-weight: 700; text-decoration: underline; 
+}
+body 
+{ font-family: Arial, sans-serif; margin: 20px; 
+  font-size: 20px;
+}
+h1 {
+    background-color: #f0f0f0;
+    padding: 20px;
+      text-align: center;
+}
+li {
+    text-align: justify;
+    margin-bottom: 10px;
+    background-color: rgb(224, 224, 224);
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+}
