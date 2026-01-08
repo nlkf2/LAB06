@@ -1,1 +1,5 @@
-# LAB06
+![alt text](<Screenshot 2026-01-08 154844.png>)
+![alt text](<Screenshot 2026-01-08 154851.png>)
+![alt text](<Screenshot 2026-01-08 154909.png>)
+![alt text](<Screenshot 2026-01-08 154918.png>)
+![alt text](<Screenshot 2026-01-08 154926.png>)
